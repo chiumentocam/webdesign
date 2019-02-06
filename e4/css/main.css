@@ -1,0 +1,29 @@
+body {
+ 	background-color: #262835;
+	font-family: 'Jacques Francois', serif;
+	color: #ffffff;
+}
+div {
+	width:900px;
+	margin: 0px auto;
+}
+h1 {
+	font-size: 5em;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+}
+h2 {
+	font-size: 2em;
+}
+h3 {
+	font-size: 2em;
+}
+h4 {
+	font-size: 1.5em;
+}
+.div2 {
+	width: 750px;
+}
+.intro {
+	font-size: 1.6em;
+}
