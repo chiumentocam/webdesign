@@ -34,25 +34,14 @@ div {
       border-bottom: 50px solid white;
       margin: 20px;
 }
-.pattern1 div:nth-child(3n+4) {
-      width: 0;
-      height: 0;
-      border-top: 20px solid white;
-      border-right: 10px solid purple;
-      border-bottom: 50px solid white;
-      margin: 20px;
-}
-	
-}
-.pattern2 div:nth-child(3n+1) {
+.pattern2 .first {
 	background: linear-gradient(270deg, white 25%, #42f4d1 25%, #42f4d1 50%, red 50%, red 75%, #42f4d1 75%);
 }
-.pattern2 div:nth-child(3n+2) {
+.pattern2 .second {
 	background-color: orange;
 	opacity: .9;
 	border-radius: 74%
 }
-.pattern2 div:nth-child(3n+3) {
+.pattern2 .third {
 	background: linear-gradient(45deg, blue 25%, #42f4d1 25%, #42f4d1 50%, white 50%, white 75%, #42f4d1 75%);
-	
 }
