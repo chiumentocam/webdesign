@@ -1,22 +1,8 @@
-* {
-	box-sizing: border-box;
+a {
+	font-size: 90px;
 }
+
 body {
-	marign: 0;
-}
-div {
-	float: left;
-}
-.board {
-	width: 800px;
-}
-.red {
-	width: 100px;
-	height: 100px;
-	background-color: red;
-}
-.white {
-	width: 100px;
-	height: 100px;
 	background-color: white;
+	margin: 25px 50px 50px;
 }
