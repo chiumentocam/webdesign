@@ -8,6 +8,7 @@ div {
 	background-color: black;
 	float: left;
 }
+/* pattern 1 */
 .pattern1 .first {
       width: 0;
       height: 0;
@@ -33,7 +34,8 @@ div {
       border-right: 100px solid purple;
       border-bottom: 50px solid white;
       margin: 20px;
-}	
+}
+/* pattern 2 */
 .pattern2 .first {
 	background: linear-gradient(270deg, white 25%, #42f4d1 25%, #42f4d1 50%, red 50%, red 75%, #42f4d1 75%);
 }
