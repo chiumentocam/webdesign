@@ -69,4 +69,57 @@ div {
 	margin: -50px;
 	opacity: .8;
 }
-	
+	/* pattern 4 */
+.pattern4 .first {
+      width: 0;
+      height: 0;
+      border-top: 20px solid white;
+      border-left: 100px solid yellow;
+      border-bottom: 50px solid green;
+      margin: -20px;
+      border-radius: 25px;
+      opacity: .2;
+}
+.pattern4 .second {
+      width: 10px;
+      height: 100px;
+      background: brown;
+      border-radius: 110px / 50px;
+      margin: -220px;
+      opacity: .8;
+}
+.pattern4 .third {
+      width: 13;
+      height: 0;
+      border-top: 50px solid cyan;
+      border-right: 10px solid purple;
+      border-bottom: 50px solid white;
+      margin: 90px;
+}
+/* pattern 5 */
+.pattern5 .first {
+      width: 0;
+      height: 0;
+      border-top: 20px solid white;
+      border-left: 120px solid black;
+      border-bottom: 50px solid green;
+      margin: 20px;
+      border-radius: 5px;
+      opacity: .7;
+}
+.pattern5 .second {
+      width: 10px;
+      height: 300px;
+      background: brown;
+      border-radius: 110px / 50px;
+      margin: -220px;
+      opacity: .8;
+}
+.pattern5 .third {
+      width: 10px;
+      height: 57px;
+      background: magenta;
+      border-radius: 10px / 46px;
+      margin: -220px;
+      opacity: .4;
+}
