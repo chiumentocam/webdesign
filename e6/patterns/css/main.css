@@ -8,6 +8,7 @@ div {
 	background-color: black;
 	float: left;
 }
+
 /* pattern 1 */
 .pattern1 .first {
       width: 0;
@@ -35,6 +36,7 @@ div {
       border-bottom: 50px solid white;
       margin: 20px;
 }
+
 /* pattern 2 */
 .pattern2 .first {
 	background: linear-gradient(270deg, white 25%, #42f4d1 25%, #42f4d1 50%, red 50%, red 75%, #42f4d1 75%);
@@ -46,4 +48,79 @@ div {
 }
 .pattern2 .third {
 	background: linear-gradient(45deg, blue 25%, #42f4d1 25%, #42f4d1 50%, white 50%, white 75%, #42f4d1 75%);
+}
+
+/* pattern 3 */
+.pattern3 .first {
+	background: linear-gradient(270deg, red 5%, orange 25%, green 50%, red 50%, red 75%, green 95%);
+}
+.pattern3 .second {
+	border-top: 50px solid pink;
+    border-right: 100px solid purple;
+	background-color: orange;
+	opacity: .6;
+	border-radius: 54%
+}
+.pattern3 .third {
+	width: 90px;
+	height: 100px;
+	background: green;
+	border-radius: 12px / 50px;
+	margin: -50px;
+	opacity: .8;
+}
+	
+/* pattern 4 */
+.pattern4 .first {
+      width: 0;
+      height: 0;
+      border-top: 20px solid white;
+      border-left: 100px solid yellow;
+      border-bottom: 50px solid green;
+      margin: -20px;
+      border-radius: 25px;
+      opacity: .2;
+}
+.pattern4 .second {
+      width: 10px;
+      height: 100px;
+      background: brown;
+      border-radius: 110px / 50px;
+      margin: -220px;
+      opacity: .8;
+}
+.pattern4 .third {
+      width: 13;
+      height: 0;
+      border-top: 50px solid cyan;
+      border-right: 10px solid purple;
+      border-bottom: 50px solid white;
+      margin: 90px;
+}
+/* pattern 5 */
+.pattern5 .first {
+      width: 0;
+      height: 0;
+      border-top: 20px solid white;
+      border-left: 120px solid black;
+      border-bottom: 50px solid green;
+      margin: 20px;
+      border-radius: 5px;
+      opacity: .7;
+}
+.pattern5 .second {
+      width: 10px;
+      height: 300px;
+      background: brown;
+      border-radius: 110px / 50px;
+      margin: -220px;
+      opacity: .8;
+}
+.pattern5 .third {
+      width: 10px;
+      height: 57px;
+      background: magenta;
+      border-radius: 10px / 46px;
+      margin: -220px;
+      opacity: .8;
 }

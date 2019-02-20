@@ -7,16 +7,44 @@ body {
 div {
 	float: left;
 }
-.board {
+
+/* chessboard */
+.board-cb {
 	width: 800px;
 }
-.red {
+.red-cb {
 	width: 100px;
 	height: 100px;
 	background-color: red;
 }
-.white {
+.white-cb {
 	width: 100px;
 	height: 100px;
 	background-color: white;
+}
+
+/* tennis court */
+.board-tc1 {
+	width: 700px;
+}
+.board-tc2 {
+	width: 500px;
+}
+.red-tc1 {
+	width: 100px;
+	height: 400px;
+	background-color: red;
+	border: 2px solid white;
+}
+.red-tc2 {
+	width: 500px;
+	height: 150px;
+	background-color: red;
+	border: 2px solid white;
+}
+.red-tc3 {
+	width: 250px;
+	height: 250px;
+	background-color: red;
+	border: 2px solid white;
 }
