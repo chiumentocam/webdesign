@@ -48,3 +48,72 @@ div {
 	background-color: red;
 	border: 2px solid white;
 }
+
+/* three column */
+.board-3c1 {
+	width: 600px;
+}
+.red-3c1 {
+	width: 600px;
+	height: 100px;
+	background-color: red;
+	border: 5px solid white;
+}
+.red-3c2 {
+	width: 600px;
+	height: 30px;
+	background-color: red;
+	border: 5px solid white;
+}
+.red-3c3 {
+	width: 200px;
+	height: 500px;
+	background-color: red;
+	border: 5px solid white;
+}
+/* blog layout */
+.board-bl1 {
+	width: 650px;
+}
+.board-bl2 {
+	width: 650px;
+	height: 525px;
+}
+.red-bl1 {
+	width: 650px;
+	height: 100px;
+	background-color: red;
+	border: 5px solid white;
+}
+.red-bl2 {
+	width: 500px;
+	height: 300px;
+	background-color: red;
+	border: 5px solid white;
+}
+.red-bl3 {
+	width: 500px;
+	height: 50px;
+	background-color: red;
+	border: 5px solid white;
+}
+.red-bl4 {
+	width: 150px;
+	height: 200px;
+	background-color: red;
+	border: 5px solid white;
+}
+.white-bl {
+	width: 600px;
+	height: 70px;
+{
+
+
+
+
+
+
+
+
+
+
