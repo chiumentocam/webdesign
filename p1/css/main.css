@@ -1,0 +1,185 @@
+body {
+	background-color: #fffdef;
+}
+p {
+	text-align: center;
+	font-size: 75px;
+	margin: 50px 150px;
+	font-family: 'Alegreya Sans', sans-serif;
+}
+.first {
+	font-size: 100px;
+}
+.fourteen {
+	font-size: 65px;
+}
+.fifteen {
+	font-size: 150px;
+	margin: 150px
+}
+.home {
+	font-size: 40px;
+	text-decoration: none;
+	color: #667ef4;
+	font-family: 'Crimson Text', serif;
+	margin: 50px;
+}
+.home:hover {
+	color: #5c2ee8;
+}
+.rodimus {
+	color: #ff934c;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.rodimus:hover {
+	color: #b20707;
+	border-bottom: 7px solid #ffef47;
+}
+.optimus {
+	color: #e0240f;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.optimus:hover {
+	color: #0621d6;
+	border-bottom: 7px solid #ffef47;
+}
+.springer {
+	color: #43bc2b;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.springer:hover {
+	color: #fcfc3f;
+	border-bottom: 7px solid #ef260b;
+}
+.jazz {
+	color: #bcbcbc;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.jazz:hover {
+	color: #3035db;
+	border-bottom: 7px solid #ef260b;
+}
+.soundwave {
+	color: #3035db;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.soundwave:hover {
+	color: #bcbcbc;
+	border-bottom: 7px solid #ffef47;
+}
+.unicron {
+	color: #f4b516;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.unicron:hover {
+	color: #6b6b6b;
+	border-bottom: 7px solid #6af751;
+}
+.megatron {
+	color: #bababa;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.megatron:hover {
+	color: #d80000;
+	border-bottom: 7px solid #7a01a3;
+}
+.kup {
+	color: #89c1a8;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.kup:hover {
+	color: #e8ab1e;
+	border-bottom: 7px solid #90cff9;
+}
+.galvatron {
+	color: #754fff;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.galvatron:hover {
+	color: #b70114;
+	border-bottom: 7px solid #ed8f02;
+}
+.starscream {
+	color: #ff213e;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.starscream:hover {
+	color: #1d92f2;
+	border-bottom: 7px solid #dd9b02;
+}
+.inferno {
+	color: #c6000d;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.inferno:hover {
+	color: #606060;
+	border-bottom: 7px solid #3b72af;
+}
+.arcee {
+	color: #ff87d1;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	
+}
+.arcee:hover {
+	color: #54b4ff;
+	border-bottom: 7px solid #ffeb42;
+}
