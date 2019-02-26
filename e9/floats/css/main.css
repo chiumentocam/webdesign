@@ -74,6 +74,7 @@ div {
 	background-color: red;
 	border: 5px solid white;
 }
+
 /* blog layout */
 .board-bl1 {
 	width: 650px;
@@ -109,14 +110,11 @@ div {
 .white-bl {
 	width: 600px;
 	height: 70px;
-{
+}
 
-
-
-
-
-
-
-
-
-
+/* california case */
+.red {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
