@@ -7,6 +7,9 @@ p {
 	margin: 50px 150px;
 	font-family: 'Alegreya Sans', sans-serif;
 }
+a {
+	font-size: 82px;
+}
 .first {
 	font-size: 100px;
 }
@@ -34,6 +37,7 @@ p {
 	transition: border-bottom 1s ease;
 	text-decoration: none;
 	font-family: 'Crimson Text', serif;
+	font-size: 98px;
 	
 }
 .rodimus:hover {
