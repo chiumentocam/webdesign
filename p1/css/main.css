@@ -42,6 +42,19 @@ a {
 	color: #b20707;
 	border-bottom: 7px solid #ffef47;
 }
+.rodimus1 {
+	color: #ff934c;
+	border-bottom: 4px solid none;
+	transition: color 1s ease;
+	transition: border-bottom 1s ease;
+	text-decoration: none;
+	font-family: 'Crimson Text', serif;
+	font-size: 100px;
+}
+.rodimus1:hover {
+	color: #b20707;
+	border-bottom: 7px solid #ffef47;
+}
 .optimus {
 	color: #e0240f;
 	border-bottom: 4px solid none;
