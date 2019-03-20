@@ -1,0 +1,39 @@
+body {
+ 	background-color: #262835;
+	font-family: 'Jacques Francois', serif;
+	color: white;
+}
+div {
+	margin: 0px auto;
+}
+p {
+	margin: 0 250px;
+	line-height: 1.4em;
+}
+h1 {
+	font-size: 5em;
+	text-align: center;
+	font-family: 'Roboto Slab', serif;
+}
+h2 {
+	font-size: 2em;
+	margin: 10px 150px;
+}
+h3 {
+	font-size: 2em;
+	font-family: 'Source Serif Pro', serif;
+}
+h4 {
+	font-size: 1.5em;
+	font-family: 'Vollkorn', serif;
+}
+.intro {
+	font-size: 1.6em;
+	margin: 0 150px;
+}
+@media only screen and (max-width: 600px) {
+	body {
+		background-color: white;
+		color: black;
+	}
+}
