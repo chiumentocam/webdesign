@@ -96,3 +96,50 @@ a {
 	background-color: #6860a5;
 	margin: -40px 500px;
 }
+
+/* page 3 */
+.page3-body {
+	background-color: #cfb1db;
+	color: white;
+	font-size: 35pt;
+	font-family: 'Noto Sans', sans-serif;
+}
+.page3-h1 {
+	color: #78dbb2;
+	font-size: 5em;
+	font-weight: normal;
+	margin: 0 0 0 0;
+}
+.page3-h2 {
+	color: #78dbb2;
+	font-size: 1.6em;
+	font-weight: normal;
+	margin: 0 0 0 0;
+}
+.page3-div1 {
+	background-color: #78dbb2;
+	margin-right: 600px;
+	height: 150px;
+}
+.page3-p1, .page3-p2, .page3-p3, .page3-p4 {
+	font-size: 20pt;
+	color: black;
+	margin: 25px 500px 0 150px;
+	text-align: left;
+}
+.page3-div2 {
+	margin-right: 200px;
+	background-color: #2982a5;
+}
+.page3-h3 {
+	font-size: 1em;
+	font-weight: normal;
+	text-align: center;
+	font-style: italic;
+	color: #6ab2e2;
+	margin: 0 0 0 500px;
+}
+.page3-div3 {
+	background-color: #6ab2e2;
+	margin: 0 0 0 600px;
+}
