@@ -143,3 +143,69 @@ a {
 	background-color: #6ab2e2;
 	margin: 0 0 0 600px;
 }
+
+/* page 4 */
+.page4-h1 {
+	font-size: 5em;
+	font-weight: normal;
+	margin-top: 10px;
+	margin-bottom: -150px;
+	text-align: center;
+}
+.page4-h2 {
+	font-size: 2em;
+	font-weight: normal;
+	text-align: center;
+	margin: 200px;
+}
+.page4-h3 {
+	font-size: 1.4em;
+	font-weight: normal;
+	text-align: center;
+	margin: -50px;
+}
+.page4-body {
+	font-size: 35pt;
+	font-family: 'Amiri', serif;
+}
+.page4-p1, .page4-p2, .page4-p3, .page4-p4 {
+	font-size: 20pt;
+	color: black;
+	margin: 15px 200px;
+	text-align: left;
+	line-height: 30px;
+}
+
+/* page 5 */
+.page5-h1 {
+	font-size: 300pt;
+	font-weight: normal;
+	margin-top: 10px;
+	margin-bottom: -150px;
+	text-align: center;
+	letter-spacing: 50px;
+}
+.page5-h2 {
+	font-size: 2em;
+	font-weight: normal;
+	text-align: right;
+	margin-right: 50px;
+}
+.page5-h3 {
+	font-size: 1.4em;
+	font-weight: normal;
+	text-align: center;
+	margin: 50px;
+	letter-spacing: 20px;
+}
+.page5-body {
+	font-size: 35pt;
+	font-family: 'Noto Sans', sans-serif;
+}
+.page5-p1, .page5-p2, .page5-p3, .page5-p4 {
+	font-size: 26pt;
+	color: black;
+	margin: 20px 120px;
+	text-align: left;
+	line-height: 45px;
+}
