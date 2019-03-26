@@ -1,0 +1,77 @@
+h1 {
+	color: white;
+	font-size: 56pt;
+	margin: 50px;
+}
+p {
+	color: white;
+	font-size: 28pt;
+	margin: 100px 100px;
+}
+div {
+	background-color: gray;
+	margin-top: -55px;
+	height: 900px;
+	z-index: 3;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	margin: 0px;
+	z-index: -3;
+}
+.metroid3-div {
+	height: 1000px;
+}
+.metroidF-div {
+	height: 1600px;
+}
+.metroidP-div {
+	height: 1000px;
+}
+.metroidP3-div {
+	height: 1200px;
+}
+.metroidOM-div {
+	height: 1400px;
+}
+@media only screen and (max-width: 1024px) {
+	p {
+		font-size: 22pt;
+	}
+	div {
+		background-color: blue;
+	}
+	.metroid3-div {
+	height: 1050px;
+	}
+	.metroidF-div {
+		height: 2000px;
+	}
+	.metroidP-div {
+		height: 1000px;
+	}
+	.metroidP3-div {
+		height: 1200px;
+	}
+	.metroidOM-div {
+		height: 1400px;
+	}
+}
+@media only screen and (max-width: 768px) {
+	p {
+		font-size: 20pt;
+	}
+	div {
+		background-color: red;
+	}
+}
+@media only screen and (max-width: 520px) {
+	p {
+		font-size: 14pt;
+		margin: 15px;
+	}
+	div {
+		background-color: green;
+	}
+}
