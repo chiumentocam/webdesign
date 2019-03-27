@@ -22,18 +22,49 @@ h2 {
 h3 {
 	font-size: 2em;
 	font-family: 'Source Serif Pro', serif;
+	margin-left: 150px;
 }
 h4 {
 	font-size: 1.5em;
 	font-family: 'Vollkorn', serif;
+	margin-left: 150px;
 }
 .intro {
 	font-size: 1.6em;
 	margin: 0 150px;
 }
+li {
+	margin-left: 300px;
+}
 @media only screen and (max-width: 600px) {
 	body {
 		background-color: white;
 		color: black;
+	}
+	h1 {
+		font-size: 4em;
+	}
+	p {
+	margin: 0 50px;
+	line-height: 1.4em;
+	}
+	li {
+	margin-left: 50px;
+	}
+	.intro {
+	font-size: 1.4em;
+	margin: 0 30px;
+	}
+	h2 {
+	font-size: 2em;
+	margin: 10px 80px;
+	}
+	h4 {
+	font-size: 1.5em;
+	margin: 0px 160px;
+	}
+	h3 {
+	font-size: 2em;
+	margin: 0px 100px;
 	}
 }

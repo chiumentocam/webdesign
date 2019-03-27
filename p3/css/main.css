@@ -21,7 +21,8 @@ img {
 	z-index: -3;
 }
 .metroid3-div {
-	height: 1000px;
+	padding: 200px 0;
+/* 	height: 1000px; */
 }
 .metroidF-div {
 	height: 1600px;
@@ -34,6 +35,13 @@ img {
 }
 .metroidOM-div {
 	height: 1400px;
+}
+.metroid1 {
+	background: url(../imgs/metroid1.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 @media only screen and (max-width: 1024px) {
 	p {
