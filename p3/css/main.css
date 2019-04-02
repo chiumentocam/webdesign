@@ -1,43 +1,147 @@
 h1 {
 	color: white;
 	font-size: 56pt;
-	margin: 50px;
+	margin-left: 100px;
 }
 p {
 	color: white;
 	font-size: 28pt;
 	margin: 100px 100px;
 }
-div {
+.text {
 	background-color: gray;
-	margin-top: -55px;
-	height: 900px;
+	padding: 10px 0px;
 	z-index: 3;
 }
-img {
-	max-width: 100%;
-	height: auto;
-	margin: 0px;
-	z-index: -3;
+.metroid1-t {
+	background-color: #fca249;
 }
-.metroid3-div {
-	padding: 200px 0;
-/* 	height: 1000px; */
+.metroid2-t {
+	background-color: #a4cc55;
 }
-.metroidF-div {
-	height: 1600px;
+.metroid3-t {
+	background-color: #c11111;
 }
-.metroidP-div {
-	height: 1000px;
+.metroidF-t {
+	background-color: #2009a3;
 }
-.metroidP3-div {
-	height: 1200px;
+.metroidP-t {
+	background-color: #4151c6;
 }
-.metroidOM-div {
-	height: 1400px;
+.metroidZM-t {
+	background-color: gray;
+}
+.metroidP2-t {
+	background-color: gray;
+}
+.metroidPP-t {
+	background-color: gray;
+}
+.metroidPH-t {
+	background-color: gray;
+}
+.metroidP3-t {
+	background-color: gray;
+}
+.metroidOM-t {
+	background-color: gray;
+}
+.metroidPFF-t {
+	background-color: gray;
+}
+.metroidRoS-t {
+	background-color: gray;
+}
+.metroid1, .metroid2, .metroid3, .metroidF, .metroidP, .metroidZM, .metroidP2, .metroidPP, .metroidPH, .metroidP3, .metroidOM, .metroidPFF, .metroidRoS {
+	width: 100%;
+	height: 800px;
 }
 .metroid1 {
 	background: url(../imgs/metroid1.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroid2 {
+	background: url(../imgs/metroid2.jpeg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroid3 {
+	background: url(../imgs/metroid3.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroidF {
+	background: url(../imgs/metroidF.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroidP {
+	background: url(../imgs/metroidP.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroidZM {
+	background: url(../imgs/metroidZM.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroidP2 {
+	background: url(../imgs/metroidP2.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroidPP {
+	background: url(../imgs/metroidPP.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroidPH {
+	background: url(../imgs/metroidPH.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroidP3 {
+	background: url(../imgs/metroidP3.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroidOM {
+	background: url(../imgs/metroidOM.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroidPFF {
+	background: url(../imgs/metroidPFF.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.metroidRoS {
+	background: url(../imgs/metroidRoS.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -47,30 +151,15 @@ img {
 	p {
 		font-size: 22pt;
 	}
-	div {
+	.text {
 		background-color: blue;
-	}
-	.metroid3-div {
-	height: 1050px;
-	}
-	.metroidF-div {
-		height: 2000px;
-	}
-	.metroidP-div {
-		height: 1000px;
-	}
-	.metroidP3-div {
-		height: 1200px;
-	}
-	.metroidOM-div {
-		height: 1400px;
 	}
 }
 @media only screen and (max-width: 768px) {
 	p {
 		font-size: 20pt;
 	}
-	div {
+	.text {
 		background-color: red;
 	}
 }
@@ -79,7 +168,7 @@ img {
 		font-size: 14pt;
 		margin: 15px;
 	}
-	div {
+	.text {
 		background-color: green;
 	}
 }
