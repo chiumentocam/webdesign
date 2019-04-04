@@ -1,10 +1,10 @@
 h1 {
-	color: white;
+	color: black;
 	font-size: 56pt;
 	margin-left: 100px;
 }
 p {
-	color: white;
+	color: black;
 	font-size: 28pt;
 	margin: 100px 100px;
 }
@@ -23,34 +23,34 @@ p {
 	background-color: #c11111;
 }
 .metroidF-t {
-	background-color: #2009a3;
+	background-color: #1e1bc6;
 }
 .metroidP-t {
 	background-color: #4151c6;
 }
 .metroidZM-t {
-	background-color: gray;
+	background-color: #f8fc79;
 }
 .metroidP2-t {
-	background-color: gray;
+	background-color: #823030;
 }
 .metroidPP-t {
-	background-color: gray;
+	background-color: #dbdbdb;
 }
 .metroidPH-t {
-	background-color: gray;
+	background-color: #94f97a;
 }
 .metroidP3-t {
-	background-color: gray;
+	background-color: #58c2ef;
 }
 .metroidOM-t {
-	background-color: gray;
+	background-color: #437242;
 }
 .metroidPFF-t {
-	background-color: gray;
+	background-color: #dbdbdb;
 }
 .metroidRoS-t {
-	background-color: gray;
+	background-color: #5b1384;
 }
 .metroid1, .metroid2, .metroid3, .metroidF, .metroidP, .metroidZM, .metroidP2, .metroidPP, .metroidPH, .metroidP3, .metroidOM, .metroidPFF, .metroidRoS {
 	width: 100%;
@@ -148,27 +148,31 @@ p {
 	background-size: cover;
 }
 @media only screen and (max-width: 1024px) {
+	h1 {
+		text-align: center;
+		margin: 0;
+	}
 	p {
 		font-size: 22pt;
 	}
-	.text {
-		background-color: blue;
-	}
 }
 @media only screen and (max-width: 768px) {
+	h1 {
+		text-align: center;
+		margin: 0;
+	}
 	p {
 		font-size: 20pt;
 	}
-	.text {
-		background-color: red;
-	}
 }
 @media only screen and (max-width: 520px) {
+	h1 {
+		text-align: center;
+		margin: 0;
+		font-size: 40pt;
+	}
 	p {
 		font-size: 14pt;
 		margin: 15px;
-	}
-	.text {
-		background-color: green;
 	}
 }
