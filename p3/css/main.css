@@ -57,91 +57,91 @@ p {
 	height: 800px;
 }
 .metroid1 {
-	background: url(../imgs/metroid1.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroid1/metroid1.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroid2 {
-	background: url(../imgs/metroid2.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroid2/metroid2.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroid3 {
-	background: url(../imgs/metroid3.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroid3/metroid3.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroidF {
-	background: url(../imgs/metroidF.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroidF/metroidF.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroidP {
-	background: url(../imgs/metroidP.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroidP/metroidP.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroidZM {
-	background: url(../imgs/metroidZM.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroidZM/metroidZM.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroidP2 {
-	background: url(../imgs/metroidP2.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroidP2/metroidP2.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroidPP {
-	background: url(../imgs/metroidPP.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroidPP/metroidPP.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroidPH {
-	background: url(../imgs/metroidPH.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroidPH/metroidPH.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroidP3 {
-	background: url(../imgs/metroidP3.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroidP3/metroidP3.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroidOM {
-	background: url(../imgs/metroidOM.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroidOM/metroidOM.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroidPFF {
-	background: url(../imgs/metroidPFF.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroidPFF/metroidPFF.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 .metroidRoS {
-	background: url(../imgs/metroidRoS.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroidRoS/metroidRoS.jpg) no-repeat center center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -155,6 +155,27 @@ p {
 	p {
 		font-size: 22pt;
 	}
+	.metroidF {
+	background: url(../imgs/metroidF/metroidF-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidP {
+	background: url(../imgs/metroidP/metroidP-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidP2 {
+	background: url(../imgs/metroidP2/metroidP2-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidP3 {
+	background: url(../imgs/metroidP3/metroidP3-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidOM {
+	background: url(../imgs/metroidOM/metroidOM-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidPFF {
+	background: url(../imgs/metroidPFF/metroidPFF-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidRoS {
+	background: url(../imgs/metroidRoS/metroidRoS-1024.jpg) no-repeat center center fixed;
+	}
 }
 @media only screen and (max-width: 768px) {
 	h1 {
@@ -162,7 +183,29 @@ p {
 		margin: 0;
 	}
 	p {
-		font-size: 20pt;
+		font-size: 18pt;
+		margin: 50px;
+	}
+	.metroidF {
+	background: url(../imgs/metroidF/metroidF-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidP {
+	background: url(../imgs/metroidP/metroidP-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidP2 {
+	background: url(../imgs/metroidP2/metroidP2-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidP3 {
+	background: url(../imgs/metroidP3/metroidP3-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidOM {
+	background: url(../imgs/metroidOM/metroidOM-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidPFF {
+	background: url(../imgs/metroidPFF/metroidPFF-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidRoS {
+	background: url(../imgs/metroidRoS/metroidRoS-1024.jpg) no-repeat center center fixed;
 	}
 }
 @media only screen and (max-width: 520px) {
