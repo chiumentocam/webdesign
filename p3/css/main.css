@@ -71,7 +71,7 @@ p {
 	background-size: cover;
 }
 .metroid3 {
-	background: url(../imgs/metroid3/metroid3.jpg) no-repeat center center fixed; 
+	background: url(../imgs/metroid3/metroid3.jpg) no-repeat left center fixed; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -186,6 +186,9 @@ p {
 		font-size: 18pt;
 		margin: 50px;
 	}
+	.metroid1 {
+	background: url(../imgs/metroid1/metroid1-768.jpg) no-repeat center center fixed;
+	}
 	.metroidF {
 	background: url(../imgs/metroidF/metroidF-1024.jpg) no-repeat center center fixed;
 	}
@@ -207,6 +210,9 @@ p {
 	.metroidRoS {
 	background: url(../imgs/metroidRoS/metroidRoS-1024.jpg) no-repeat center center fixed;
 	}
+	.metroidZM {
+	background: url(../imgs/metroidZM/metroidZM-768.jpg) no-repeat center center fixed;
+	}
 }
 @media only screen and (max-width: 520px) {
 	h1 {
@@ -217,5 +223,35 @@ p {
 	p {
 		font-size: 16pt;
 		margin: 15px;
+	}
+	.metroid1 {
+	background: url(../imgs/metroid1/metroid1-320.jpg) no-repeat center center fixed;
+	}
+	.metroidF {
+	background: url(../imgs/metroidF/metroidF-320.jpg) no-repeat center center fixed;
+	}
+	.metroidP {
+	background: url(../imgs/metroidP/metroidP-320.jpg) no-repeat center center fixed;
+	}
+	.metroidP2 {
+	background: url(../imgs/metroidP2/metroidP2-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidP3 {
+	background: url(../imgs/metroidP3/metroidP3-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidOM {
+	background: url(../imgs/metroidOM/metroidOM-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidPFF {
+	background: url(../imgs/metroidPFF/metroidPFF-1024.jpg) no-repeat center center fixed;
+	}
+	.metroidRoS {
+	background: url(../imgs/metroidRoS/metroidRoS-320.jpg) no-repeat center center fixed;
+	}
+	.metroidZM {
+	background: url(../imgs/metroidZM/metroidZM-768.jpg) no-repeat center center fixed;
+	}
+	.metroidPP {
+	background: url(../imgs/metroidPP/metroidPP-320.jpg) no-repeat center center fixed;
 	}
 }
