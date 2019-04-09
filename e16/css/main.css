@@ -24,8 +24,11 @@
 }
 #number1 {
 	transition: all 2s ease;
-	cursor: pointer;
-	color: white;
+}
+.number1-2 {
+	transition: all 2s ease;
+	color: black;
+	font-family: Arial, sanserif;
 }
 .blue {
 	background-color: #0f6bff;
@@ -62,7 +65,7 @@ h1 {
 	display: none;
 }
 .number3-2 {
-	color: orange;
+	color: #ffaf05;
 	font-size: 80pt;
 	margin: -15px;
 }
@@ -71,4 +74,21 @@ h1 {
 }
 button {
 	cursor: pointer;
+	background-color: #f24b59;
+	border: none;
+	border-radius: 8px;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 50px 120px;
+	-webkit-transition-duration: 0.4s; /* Safari */
+	transition-duration: 0.4s;
+	border: 2px solid #f24b59;
+}
+button:hover {
+	background-color: #656af7;
+	color: white;
 }

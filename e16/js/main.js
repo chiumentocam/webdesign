@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$('#number1').mouseleave(function() {
-		$('#number1').css('color', 'black');
+		$('#number1').toggleClass('number1-2');
 		$('#lead-1').toggleClass('pink');
 	});
 	$('#number2').click(function() {
