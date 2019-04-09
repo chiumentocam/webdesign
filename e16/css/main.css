@@ -63,7 +63,8 @@ h1 {
 }
 .number3-2 {
 	color: orange;
-	font-size: 100pt;
+	font-size: 80pt;
+	margin: -15px;
 }
 #number1, #number2, #number3, #number4 {
 	cursor: pointer;
