@@ -16,8 +16,7 @@ $(document).ready(function() {
   	$("#flip").click(function(){
     	$("#panel").slideToggle("slow");
 	});
-	$('#number3').mousedown(function() {
-		$('#number3').css('color', 'orange');
-		$('#number3').css('font-size', '100pt');
+	$('#number3').hover(function() {
+		$('#number3').toggleClass('number3-2');
 	});
 });

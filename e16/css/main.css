@@ -33,6 +33,7 @@
 }
 .black {
 	background-color: black;
+	font-style: italic;
 }
 .pink {
 	background-color: pink;
@@ -45,7 +46,6 @@ h1 {
 	text-transform: uppercase;
 	letter-spacing: .2em;
 	transition: all 2s ease;
-	cursor: pointer;
 	color: white;
 }
 #panel, #flip {
@@ -60,4 +60,14 @@ h1 {
 #panel {
 	padding: 50px;
 	display: none;
+}
+.number3-2 {
+	color: orange;
+	font-size: 100pt;
+}
+#number1, #number2, #number3, #number4 {
+	cursor: pointer;
+}
+button {
+	cursor: pointer;
 }
