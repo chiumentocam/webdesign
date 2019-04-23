@@ -16,6 +16,678 @@ h1 {
 	left: 434px;
 	cursor: pointer;
 }
+#circle1 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 93px;
+    left: 69px;
+    z-index: -1;
+}
+#circle1R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 110px;
+    left: 90px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle2 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 160px;
+    left: 38px;
+    z-index: -1;
+}
+#circle2R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 160px;
+    left: 68px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle3 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 244px;
+    left: 53px;
+    z-index: -1;
+}
+#circle3R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 244px;
+    left: 94px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle4 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 320px;
+    left: 96px;
+    z-index: -1;
+}
+#circle4R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 302px;
+    left: 135px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle5 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 374px;
+    left: 165px;
+    z-index: -1;
+}
+#circle5R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 340px;
+    left: 180px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle6 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 397px;
+    left: 256px;
+    z-index: -1;
+}
+#circle6R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 332px;
+    left: 256px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle7 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 93px;
+    left: 424px;
+    z-index: -1;
+}
+#circle7R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 114px;
+    left: 381px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle8 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 246px;
+    left: 434px;
+    z-index: -1;
+}
+#circle8R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 246px;
+    left: 372px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle10 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 314px;
+    left: 388px;
+    z-index: -1;
+}
+#circle10R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 305px;
+    left: 326px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle11 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 356px;
+    left: 321px;
+    z-index: -1;
+}
+#circle11R {
+border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 330px;
+    left: 301px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle12 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 34px;
+    left: 140px;
+    z-index: -1;
+}
+#circle12R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 101px;
+    left: 177px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle13 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 43px;
+    left: 253px;
+    z-index: -1;
+}
+#circle13R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 118px;
+    left: 253px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle14 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 56px;
+    left: 339px;
+    z-index: -1;
+}
+#circle14R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 95px;
+    left: 323px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle15 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 83px;
+    left: 187px;
+    z-index: -1;
+}
+#circle15R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 102px;
+    left: 187px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle16 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 110px;
+    left: 122px;
+    z-index: -1;
+}
+#circle16R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 110px;
+    left: 122px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle17 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 183px;
+    left: 106px;
+    z-index: -1;
+}
+#circle17R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 183px;
+    left: 106px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle18 {
+	border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 260px;
+    left: 135px;
+    z-index: -1;
+}
+#circle18R {
+	border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 260px;
+    left: 135px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle19 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 338px;
+    left: 183px;
+    z-index: -1;
+}
+#circle19R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 338px;
+    left: 183px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle20 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 331px;
+    left: 260px;
+    z-index: -1;
+}
+#circle20R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 331px;
+    left: 260px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle21 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 176px;
+    left: 450px;
+    z-index: -1;
+}
+#circle21R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 176px;
+    left: 398px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle22 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 105px;
+    left: 260px;
+    z-index: -1;
+}
+#circle22R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 114px;
+    left: 260px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle23 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 142px;
+    left: 180px;
+    z-index: -1;
+}
+#circle23R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 142px;
+    left: 180px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle24 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 206px;
+    left: 172px;
+    z-index: -1;
+}
+#circle24R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 206px;
+    left: 172px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle25 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 282px;
+    left: 222px;
+    z-index: -1;
+}
+#circle25R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 282px;
+    left: 222px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle26 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 160px;
+    left: 236px;
+    z-index: -1;
+}
+#circle26R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 160px;
+    left: 236px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle27 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 222px;
+    left: 260px;
+    z-index: -1;
+}
+#circle27R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 222px;
+    left: 260px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle28 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 306px;
+    left: 298px;
+    z-index: -1;
+}
+#circle28R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 306px;
+    left: 298px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle29 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 262px;
+    left: 342px;
+    z-index: -1;
+}
+#circle29R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 262px;
+    left: 342px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle30 {
+	border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 192px;
+    left: 310px;
+    z-index: -1;
+}
+#circle30R {
+	border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 192px;
+    left: 310px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle31 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 131px;
+    left: 318px;
+    cursor: pointer;
+    z-index: -1;
+}
+#circle31R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 131px;
+    left: 318px;
+    z-index: 3;
+}
+#circle32 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 192px;
+    left: 383px;
+    z-index: -1;
+}
+#circle32R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 192px;
+    left: 383px;
+    cursor: pointer;
+    z-index: 3;
+}
+#circle33 {
+    border-radius: 100%;
+    background-color: white;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 125px;
+    left: 380px;
+    z-index: -1;
+}
+#circle33R {
+    border-radius: 100%;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 125px;
+    left: 380px;
+    cursor: pointer;
+    z-index: 3;
+}
 .apple2 {
 	border-radius: 100%;
     background-color: red;
@@ -24,7 +696,7 @@ h1 {
     height: 191px;
     top: 93px;
     left: 69px;
-    cursor: pointer;
+    z-index: 2;
 }
 .apple3 {
     border-radius: 100%;
@@ -34,7 +706,7 @@ h1 {
     height: 191px;
     top: 93px;
     left: 247px;
-    cursor: pointer;
+    z-index: 2;
 }
 .apple4 {
     background-color: red;
@@ -43,7 +715,7 @@ h1 {
     height: 100px;
     top: 307px;
     left: 231px;
-    cursor: pointer;
+    z-index: 2;
 }
 .apple5 {
     border-radius: 100%;
@@ -54,6 +726,7 @@ h1 {
     top: 109px;
     left: 68px;
     transform: rotate(345deg);
+    z-index: 2;
 }
 .apple6 {
     border-radius: 100%;
@@ -64,7 +737,7 @@ h1 {
     top: 109px;
     left: 321px;
     transform: rotate(15deg);
-    cursor: pointer;
+    z-index: 2;
 }
 .apple7 {
     border-radius: 100%;
@@ -75,7 +748,7 @@ h1 {
     top: 180px;
     left: 108px;
     transform: rotate(325deg);
-    cursor: pointer;
+    z-index: 2;
 }
 .apple8 {
     border-radius: 100%;
@@ -86,7 +759,7 @@ h1 {
     top: 180px;
     left: 351px;
     transform: rotate(35deg);
-    cursor: pointer;
+    z-index: 2;
 }
 .apple9 {
 	border-radius: 100%;
@@ -96,7 +769,7 @@ h1 {
     height: 200px;
     top: 195px;
     left: 184px;
-    cursor: pointer;
+    z-index: 2;
 }
 .apple10 {
 	height: 80px;
@@ -107,7 +780,7 @@ h1 {
     top: 410px;
     left: 243px;
     transform: rotate(226deg);
-    cursor: pointer;
+    z-index: 2;
 }
 .apple11 {
     border-radius: 100%;
@@ -117,7 +790,7 @@ h1 {
     height: 75px;
     top: 371px;
     left: 185px;
-    cursor: pointer;
+    z-index: 2;
 }
 .apple12 {
     border-radius: 100%;
@@ -127,7 +800,7 @@ h1 {
     height: 75px;
     top: 371px;
     left: 273px;
-    cursor: pointer;
+    z-index: 2;
 }
 .stem1 {
     height: 119px;
@@ -138,5 +811,5 @@ h1 {
     top: 49px;
     left: 295px;
     transform: rotate(209deg);
-    cursor: pointer;
+    z-index: 5;
 }
